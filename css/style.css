@@ -7435,7 +7435,8 @@ h1, h2, h3, h4, h5,
     #colorlib-aside .colorlib-footer h3 {
       font-size: 16px;
       font-weight: 600;
-      margin-bottom: 20px; }
+      margin-top: 10px
+      margin-bottom: 0px; }
     #colorlib-aside .colorlib-footer a {
       color: #000000; }
     #colorlib-aside .colorlib-footer span {
